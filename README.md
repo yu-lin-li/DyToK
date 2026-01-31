@@ -30,6 +30,7 @@ This repository is the official PyTorch implementation of [DyToK](https://openre
 
 ## 🎉 News
 
+* **[2026.01.26]**  Our training-free inference acceleration framework [FlashVID](https://github.com/Fanziyang-v/FlashVID) has been accepted at **ICLR 2026**.
 * **[2025.12.06]**  Released code for integrating DyToK with encoder feature-based pruning methods.
 * **[2025.09.18]**  Our paper has been accepted at **NeurIPS 2025**.
 
