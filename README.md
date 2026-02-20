@@ -177,7 +177,7 @@ If you find DyToK useful in your research, please cite our paper:
 @article{li2025less,
   title={Less Is More, but Where? Dynamic Token Compression via LLM-Guided Keyframe Prior},
   author={Li, Yulin and Gui, Haokun and Fan, Ziyang and Wang, Junjie and Kang, Bin and Chen, Bin and Tian, Zhuotao},
-  journal={arXiv preprint arXiv:2025},
+  journal={arXiv preprint arXiv:2512.06866},
   year={2025}
 }
 ```
